@@ -4,7 +4,7 @@ Updated October 20, 2026. Four concepts each for the first five listed products 
 
 Includes 20 concepts, 60 JPGs in three sizes, 80 primary-text options and 60 headlines. Open index.html through the published site to review, choose formats/copy and download files. Selections are stored in the browser and can be exported as JSON. They do not publish ads or synchronize between reviewers.
 
-The complete handoff ZIP contains this page, final JPGs, copy, source ledger, prompts, summary and essential brand assets. Extract the ZIP and keep the folder intact for offline browsing. Some browsers open file-based image links rather than downloading them; the JPGs are also in the ads folder.
+The complete handoff ZIP contains this page, final JPGs, copy, source ledger, prompts, summary and essential brand assets. Extract the ZIP and keep the folder intact for offline browsing. The offline review embeds matching JPG data so chosen-format downloads work directly from the extracted folder.
 
 Product photographs and official logos are sourced from the public Lay it Flat storefront. Three atmosphere backgrounds were generated. Covers and binding remain sourced; no interiors, reviews or customer results were fabricated. Source facts and exact SKU/destination matches are in fact-ledger.json. These are fresh concepts, not measured performance winners.
 
