@@ -1,15 +1,9 @@
-# Lay it Flat: first five books
+# Layitflat creative reviews
 
-Updated October 20, 2026. Four concepts each for the first five listed products in the supplied spreadsheet: the GLP-1 Medication Cookbook, Pre-Calculus Made Simple, MAT 171 Precalculus, the Beginner’s Stock Investing Playbook and the Backyard Chickens Bible.
+The homepage opens the October 23, 2026 green collection: all 26 green-highlighted books, five animated versions each, and three formats per version (390 MP4s). The gallery includes full-resolution JPG thumbnails, storyboards, copy, sources, review flags and selection export.
 
-Includes 20 concepts, 60 JPGs in three sizes, 80 primary-text options and 60 headlines. Open index.html through the published site to review, choose formats/copy and download files. Selections are stored in the browser and can be exported as JSON. They do not publish ads or synchronize between reviewers.
+- Current campaign: https://matthewzinni.github.io/meta/green-collection/
+- Previous five-book review: https://matthewzinni.github.io/meta/first-five.html
+- Earlier batch: https://matthewzinni.github.io/meta/previous-batch/
 
-The complete handoff ZIP contains this page, final JPGs, copy, source ledger, prompts, summary and essential brand assets. Extract the ZIP and keep the folder intact for offline browsing. The offline review embeds matching JPG data so chosen-format downloads work directly from the extracted folder.
-
-Product photographs and official logos are sourced from the public Lay it Flat storefront. Three atmosphere backgrounds were generated. Covers and binding remain sourced; no interiors, reviews or customer results were fabricated. Source facts and exact SKU/destination matches are in fact-ledger.json. These are fresh concepts, not measured performance winners.
-
-Draft creative for review. The GLP-1 title needs health-policy and destination review. The investing destination has a garbled title character and keyword expansion; review education claims and correct the page before placement. No medical, grade, investment-return or egg-production outcome is promised in ad copy. Current Meta placement guidance and eligibility remain unverified because primary pages were blocked or rate limited. Preview the actual placements in the account before launch. Audience themes are proposals, not verified selectable targeting options.
-
-The CSV is a copy reference, not a verified Meta import schema. All 60 JPG dimensions/signatures, copy counts and editorial length targets passed automated checks. The review controls and selected-file downloads were tested in a browser.
-
-The earlier review remains at previous-batch/index.html.
+The web encodes preserve the original dimensions and duration while keeping the site within GitHub Pages' size limit. The 1.52 GB original ZIP and source-asset working files are not committed. See green-collection/README.md for handoff details and product-review flags. No ads were placed or launched.

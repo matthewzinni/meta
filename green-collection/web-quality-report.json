@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "video_count": 390,
+  "video_decode": true,
+  "duration_seconds": 12,
+  "dimensions": {
+    "9x16": [
+      1080,
+      1920
+    ],
+    "4x5": [
+      1080,
+      1350
+    ],
+    "1x1": [
+      1080,
+      1080
+    ]
+  },
+  "site_bytes": 885271083,
+  "encoding": "H.264 CRF 20 fast; source dimensions, frame rate and audio retained; originals remain in separate local ZIP."
+}

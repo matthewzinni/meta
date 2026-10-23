@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "checks": [
+    "20 initial cards with pagination for 130 versions",
+    "26-book selector",
+    "five versions per book filter",
+    "video playback and metadata",
+    "actual chosen copy persistence",
+    "ratio persistence",
+    "exact MP4/JPG download bytes",
+    "selection export fields",
+    "status filter",
+    "mobile width"
+  ],
+  "metadata": [
+    1080,
+    1920,
+    12
+  ]
+}
